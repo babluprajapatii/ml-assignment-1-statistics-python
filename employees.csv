@@ -1,0 +1,11 @@
+EmpID,Name,Department,Age,Salary,Experience,salary_per_year_exp
+E01,Aarav,IT,28,55000,3,18333.33
+E02,Bhavya,HR,32,48000,5,9600.0
+E03,Chirag,IT,26,52000,2,26000.0
+E04,Diya,Finance,35,72000,8,9000.0
+E05,Eshan,IT,30,60000,4,15000.0
+E06,Farah,Sales,29,45000,3,15000.0
+E07,Gaurav,Finance,40,85000,12,7083.33
+E08,Hina,HR,27,42000,2,21000.0
+E09,Ishan,Sales,33,55000,6,9166.67
+E10,Jiya,IT,38,78000,10,7800.0
