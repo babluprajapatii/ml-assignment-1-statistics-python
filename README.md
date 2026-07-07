@@ -336,34 +336,35 @@ python generate_pdf.py
 
 ---
 
-## 👨‍🎓 Student Information
-
-<div align="center">
+## 👨‍🎓 Internship Information
 
 | Field | Details |
-|---|---|
-| **Name** | Bablu Kumar |
-| **University Roll No.** | 23052440012 |
-| **College Roll No.** | 23011036 |
-| **Course** | Data Analysis using Open-Source Tools |
-| **Submitted To** | Mr. Basudev Mahata |
-| **Department** | CSE — RTC Institute of Technology, Ranchi |
-| **Session** | 2025–26 |
-| **Semester** | 6th |
-| **Batch** | 2023–27 |
-| **Date of Submission** | 09/05/26 |
+|-------|---------|
+| Name | Bablu Kumar |
+| University Roll No. | 23052440012 |
+| College Roll No. | 23011036 |
+| Internship | Machine Learning Internship |
+| Organization | Internship Studio (iStudio) |
+| Department | Computer Science & Engineering |
+| College | RTC Institute of Technology, Ranchi |
+| Session | 2025–26 |
+| Semester | 6th |
+| Batch | 2023–27 |
+| Date of Submission | 18/06/2026 |
 
-</div>
+---
+
+## 🙏 Acknowledgement
+
+This project was successfully completed as part of the **Machine Learning Internship** conducted by **Internship Studio (iStudio)**. I sincerely thank Internship Studio (iStudio) for providing the opportunity to gain practical experience in machine learning and data analysis.
 
 ---
 
 ## 📄 License
 
-This project is submitted as part of the **ML Internship** coursework at **RTC Institute of Technology, Ranchi**.
+© 2026 Bablu Kumar. All rights reserved.
 
-> © 2026 Bablu Kumar — All rights reserved. Academic use only.
-
----
+This repository contains a project developed during the **Machine Learning Internship** conducted by **Internship Studio (iStudio)**. It is intended for internship evaluation, educational purposes, and portfolio demonstration.
 
 <div align="center">
 
