@@ -350,7 +350,7 @@ python generate_pdf.py
 | Session | 2025–26 |
 | Semester | 6th |
 | Batch | 2023–27 |
-| Date of Submission | 18/06/2026 |
+| Date of Submission | 13/06/2026 |
 
 ---
 
